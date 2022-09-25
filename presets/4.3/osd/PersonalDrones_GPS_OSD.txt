@@ -10,8 +10,19 @@
 #$ DESCRIPTION: PersonalDrones standard OSD With GPS
 #$ DESCRIPTION: 
 #$ DESCRIPTION: [www.PersonalDrones.it](https://www.personaldrones.it)
+#$ DESCRIPTION:
+#$ DESCRIPTION:  
+#$ DESCRIPTION: <img src="https://www.webatwork.it/personaldrones/logo.png" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION:
+#$ DESCRIPTION:  
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: PersonalDrones standard OSD With GPS
 #$ DESCRIPTION: 
-#$ DESCRIPTION: <img src="https://www.webatwork.it/personaldrones/logo.png" width="250px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: OSD Elements Include:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Vbat, Amps, mAh drawn, Home Direction, Altitude, Cell Voltage, Home Distance, RSSI, etc...
+#$ DESCRIPTION: 
 
 set osd_vbat_pos = 2063
 set osd_rssi_pos = 2497
