@@ -10,11 +10,11 @@
 #$ DESCRIPTION: PersonalDrones standard OSD
 #$ DESCRIPTION: 
 #$ DESCRIPTION: [www.PersonalDrones.it](https://www.personaldrones.it)
-#$ DESCRIPTION:
-#$ DESCRIPTION:  
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
 #$ DESCRIPTION: <img src="https://www.webatwork.it/personaldrones/logo.png" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
-#$ DESCRIPTION:
-#$ DESCRIPTION:  
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: PersonalDrones standard OSD
