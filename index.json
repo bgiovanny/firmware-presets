@@ -161,8 +161,6 @@
       "50Hz",
       "55Hz",
       "actual",
-      "adjustments",
-      "aux",
       "basic",
       "clear",
       "Crossfire",
@@ -170,6 +168,7 @@
       "default",
       "defaults",
       "defaults DJI OSD",
+      "defaults Modes fot TBS Tango 2 CRSF",
       "filter",
       "filters",
       "ghost",
@@ -180,8 +179,6 @@
       "leds",
       "link",
       "Long Range",
-      "mode",
-      "modes",
       "Normal",
       "pid",
       "Pure Race",
@@ -197,7 +194,6 @@
       "Rx",
       "smoothing",
       "Solid250",
-      "switch",
       "TBS",
       "Team Black Sheep",
       "Tracer",
@@ -242,29 +238,23 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/modes/defaults.txt",
-      "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "fullPath": "presets/4.3/modes/PersonalDrones_Modes_fot_TBS_Tango_2.txt",
+      "hash": "b9fefcb7e34e7379db33fc2e02fa5babbfa41b2d4befaa44ecead8a8eb808df8",
+      "title": "PersonalDrones Modes fot TBS Tango 2 CRSF",
       "firmware_version": [
         "4.3"
       ],
       "category": "MODES",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
-        "reset",
-        "mode",
-        "modes",
-        "adjustments",
-        "aux",
-        "switch"
+        "defaults Modes fot TBS Tango 2 CRSF"
       ],
-      "author": "Betaflight",
+      "author": "bgiovanny PersonalDrones",
       "priority": 0
     },
     {
       "fullPath": "presets/4.3/osd/PersonalDrones_GPS_OSD.txt",
-      "hash": "1fb5b79d54749a9fb9c8cf83fd40f542b79cbdc4f18ac4e61ddacee50f97820f",
+      "hash": "47e97477241436c84d12e4d60dbcb12a6577ee54df605fa45af57907d544451f",
       "title": "PersonalDrones_GPS_OSD",
       "firmware_version": [
         "4.3"
@@ -279,7 +269,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/PersonalDrones_OSD.txt",
-      "hash": "eedbd977a123759644c527ad1ae183cb7ef754d882546a41c78276b0dad5feb3",
+      "hash": "8dce39c3a50b9f9de19ba3f6bdedd4e825617023750b66ea21b6d60f0af07312",
       "title": "PersonalDrones_OSD",
       "firmware_version": [
         "4.3"

@@ -1,0 +1,33 @@
+#$ TITLE: PersonalDrones Modes fot TBS Tango 2 CRSF
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults Modes fot TBS Tango 2 CRSF
+#$ AUTHOR: bgiovanny PersonalDrones
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: PersonalDrones Modes fot TBS Tango 2 CRSF
+#$ DESCRIPTION: 
+#$ DESCRIPTION: [www.PersonalDrones.it](https://www.personaldrones.it)
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <img src="https://www.webatwork.it/personaldrones/logo.png" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: PersonalDrones Modes fot TBS Tango 2 CRSF
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Modes Elements Include:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Arm, Angle, Horizon, Acro, Turtle mode, Beeper, etc...
+#$ DESCRIPTION: 
+
+# aux switch settings
+
+aux 0 0 0 1725 2100 0 0
+aux 1 1 3 900 1275 0 0
+aux 2 2 3 1325 1675 0 0
+aux 3 13 4 1725 2100 0 0
+aux 4 35 2 1325 1675 0 0
