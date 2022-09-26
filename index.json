@@ -160,13 +160,13 @@
       "500Hz",
       "50Hz",
       "55Hz",
-      "actual",
       "basic",
       "clear",
       "Crossfire",
       "CRSF",
       "default",
       "defaults",
+      "Defaults Betaflight Rates",
       "defaults DJI OSD",
       "defaults Modes fot TBS Tango 2 CRSF",
       "filter",
@@ -185,7 +185,6 @@
       "Race",
       "Race250",
       "Race500",
-      "rates",
       "RC",
       "rc link",
       "rc_link",
@@ -283,20 +282,18 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "9d063433102e8340d3d0ad396f6dc998c7030c0b9ecc4bb2a6c5b86a5def07fe",
-      "title": "Default rates",
+      "fullPath": "presets/4.3/rates/PersonalDrones_Default_Rates.txt",
+      "hash": "4023b08eb1124f83a4b7ceb29c73e904c91a1c9f3b7f49dec5dd4f1e6ca95863",
+      "title": "PersonalDrones Default Rates",
       "firmware_version": [
         "4.3"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
-        "rates",
-        "actual"
+        "Defaults Betaflight Rates"
       ],
-      "author": "Betaflight",
+      "author": "bgiovanny PersonalDrones",
       "priority": 0
     },
     {
