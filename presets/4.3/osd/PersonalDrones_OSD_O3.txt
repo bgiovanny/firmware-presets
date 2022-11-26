@@ -1,0 +1,43 @@
+#$ TITLE: PersonalDrones_OSD_O3
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults DJI O3 OSD
+#$ AUTHOR: bgiovanny PersonalDrones
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: PersonalDrones standard O3 OSD
+#$ DESCRIPTION: 
+#$ DESCRIPTION: [www.PersonalDrones.it](https://www.personaldrones.it)
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <img src="https://www.webatwork.it/personaldrones/logo.png" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: PersonalDrones standard O3 OSD
+#$ DESCRIPTION: 
+#$ DESCRIPTION: OSD Elements Include:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Vbat, Amps, mAh drawn, Fly Mode, Altitude, Cell Voltage, RSSI, etc...
+#$ DESCRIPTION: 
+
+set osd_vbat_pos = 2068
+set osd_rssi_pos = 2496
+set osd_tim_2_pos = 471
+set osd_flymode_pos = 2052
+set osd_throttle_pos = 321
+set osd_vtx_channel_pos = 463
+set osd_crosshairs_pos = 238
+set osd_ah_sbar_pos = 2287
+set osd_current_pos = 343
+set osd_mah_drawn_pos = 2056
+set osd_craft_name_pos = 33
+set osd_altitude_pos = 18
+set osd_warnings_pos = 458
+set osd_avg_cell_voltage_pos = 2062
+set osd_pit_ang_pos = 421
+set osd_disarmed_pos = 2540
+set osd_flip_arrow_pos = 2074
